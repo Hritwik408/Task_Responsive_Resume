@@ -1,1 +1,259 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+.topheader{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: center
+}
+.name{
+    width: 45%;
+    text-align: left;
+}
+.post{
+    display: flex;
+    background-color: aqua;
+  
+    height: 100%;
+    text-align: left;
+    flex-direction: column;
+      
+}
+.aboutpost{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+.mypic{
+    text-decoration: none;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.mypic img{
+    border: 3px paleturquoise;
+    text-decoration: none;
+    width: 40%;
+    height: 37%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+.aboutmycontact{
+    text-decoration: none;
+    width: 40%;
+    display: flex;
+    text-align: right;
+}
+.mycontact li{
+    list-style: none;
+    text-decoration: none;
+}
+.bottomleft{
+    padding: 17px;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+
+}
+.works *{
+    background-color: paleturquoise;
+    display: flex;
+    font-size: large;
+}
+.works{
+    font-size: 21px;
+}
+.tnp{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+}
+}
+.time{
+    display: flex;
+    width: 20%;
+}
+.place{
+    display: flex;
+    width: 103px;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.pnt{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+}
+.education{
+    background-color: powderblue;
+}
+.lang{
+    background-color: powderblue;
+}
+.lang1{
+    font-size: 23px
+
+}
+.lang2{
+    font-size: 23px
+
+}
+.percent{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+}
+.percent2{
+    position: relative;
+    width: 95%;
+    height: 6px;
+    background: royalblue;
+
+}
+.bottomright{
+    float: right;
+    display: flex;
+    width: 41%;
+    height: 100%;
+    flex-direction: column;
+    padding: 21px;
+
+}
+.skills{
+    background-color: powderblue;
+}
+.s1{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+}
+.s2{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    background-color: white;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+}
+.s3{
+    background-color: white;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.s4{
+    background-color: white;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+.s5{
+    background-color: white;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+.s6{
+    background-color: white;
+    padding: 10px;
+    font-size: large;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.p1{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+    
+
+}
+.p2{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+}
+.p3{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+
+}
+.p4{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+
+}
+.p5{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+
+}
+.p6{
+    position: relative;
+    width: 75%;
+    height: 6px;
+    background: royalblue;
+    display: flex;
+
+}
+.org{
+    display: flex;
+    background-color: powderblue;
+    height: 30%;
+
+}
+.honors{
+    
+    background-color: powderblue;
+}
+.awards{
+    background-color: white;
+}
